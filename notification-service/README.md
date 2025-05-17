@@ -22,8 +22,8 @@ This project is a backend service built using Express.js that handles notificati
 
 1. **Clone the Repository:**
 ```
-git clone <repository-link>
-cd <repository-folder>
+git clone "https://github.com/Santa-nu-pal/Pepsales.git"
+cd "notifiaction-service"
 ```
 
 2. **Install Dependencies:**

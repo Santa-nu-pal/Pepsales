@@ -48,7 +48,7 @@ SMS_API_KEY=
 npm start
 ```
 
-The server will run at `http://localhost:3000`.
+The server will run at `http://localhost:5000`.
 
 ---
 
